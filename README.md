@@ -51,12 +51,10 @@ Example repos_info.md
 
 # Repositories Information
 
-# Repositories Information
-
-### Repository: /home/username/repos/personal/repo1
+### Repository: /home/charles/myrepos/github/repos
 - **Last Commit**: a1b2c3d John Doe 2 days ago Fixed a bug
 
-### Repository: /home/username/repos/work/repo2
+### Repository: /home/charles/myrepos/gitlab/repos
 - **Last Commit**: e4f5g6h Jane Smith 1 week ago Added new feature
 
 Notes
