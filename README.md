@@ -1,4 +1,4 @@
-# Sync Repositories Automation
+# Sync Repositories Automation - Special
 
 This repository contains a Python script (`pull_repos.py`) that automates the process of updating multiple Git repositories and logs their information into a Markdown file.
 
